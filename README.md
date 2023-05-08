@@ -1,2 +1,5 @@
 # OMR_Grader
-OMR sheet checking and grading system using python, opencv .
+
+#About
+The aim of this project is to develop a computer vision software using opencv and python which can read and evaluate OMR sheets.
+
